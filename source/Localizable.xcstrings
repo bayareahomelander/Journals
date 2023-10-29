@@ -1,0 +1,2956 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    " (Today)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(今日)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(今天)"
+          }
+        }
+      }
+    },
+    "'Hardwork outweighs talent - every time.' - Kobe Bryant" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'才能よりも努力が大事。' - コービー・ブライアント"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“勤奋大于天赋，始终如此。” - 科比·布莱恩特"
+          }
+        }
+      }
+    },
+    "'Journals' does not collect or store any personal information. All data is stored locally on your device." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals'は個人情報を収集または保存しません。すべてのデータはお使いのデバイスにローカルに保存されます。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals' 不会收集或存储任何个人信息。所有数据都存储在您的设备上。"
+          }
+        }
+      }
+    },
+    "'Journals' provides features for writing diaries, tracking countdowns, and reviewing past mood patterns. You agree to use the app responsibly and in accordance with all applicable laws." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals'は日記を書くための機能、カウントダウンの追跡、過去の気分パターンの確認を提供します。アプリを適切に使用し、適用される法律に従って使用することに同意します。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals' 提供日记、倒数日和回顾以往心情的功能。您同意负责任地并遵守所有适用法律使用该应用。"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@%@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld°C" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld°C"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld°C"
+          }
+        }
+      }
+    },
+    "1 day" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 天"
+          }
+        }
+      }
+    },
+    "1 week" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1週間"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 周"
+          }
+        }
+      }
+    },
+    "1. Acceptance of Terms" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 条件の受諾"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 接受条款"
+          }
+        }
+      }
+    },
+    "1. Personal Information" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 個人情報"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 个人信息"
+          }
+        }
+      }
+    },
+    "2 days" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 天"
+          }
+        }
+      }
+    },
+    "2. Local Data Storage" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. ローカルデータの保存"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 本地数据存储"
+          }
+        }
+      }
+    },
+    "2. Use of the App" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. アプリの使用"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 应用程序的使用"
+          }
+        }
+      }
+    },
+    "3. Content Ownership" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. コンテンツの所有権"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 内容所有权"
+          }
+        }
+      }
+    },
+    "3. Permissions" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 権限"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 使用权限"
+          }
+        }
+      }
+    },
+    "4. Changes to Privacy Policy" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. プライバシーポリシーの変更"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. 隐私政策的变更"
+          }
+        }
+      }
+    },
+    "4. Data Storage" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. データ保存"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. 数据存储"
+          }
+        }
+      }
+    },
+    "5. Changes to Terms" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5. 利用規約の変更"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5. 条款变更"
+          }
+        }
+      }
+    },
+    "10 days" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 天"
+          }
+        }
+      }
+    },
+    "Adversity is but a chapter in the grand story of your life; with each challenge, you gather the ink to write more inspiring chapters ahead." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "困難は人生の一章に過ぎず、各挑戦は感動的な新章を書くインクです。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "困难只是你生命故事的一章；每一次挑战都是你创作更激动人心篇章的墨水。"
+          }
+        }
+      }
+    },
+    "All data created within 'Journals' is stored locally on your device. We do not access or store your data on our servers." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals'内で作成されたすべてのデータは、お使いのデバイスにローカルに保存されます。私たちはデータにアクセスせず、サーバーにデータを保存しません。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 'Journals' 内创建的所有数据都会存储在您的设备上。我们不会访问或在我们的服务器上存储您的数据。"
+          }
+        }
+      }
+    },
+    "All data you create within the app, including diaries and mood patterns, is stored solely on your device. We do not have access to this data, and it is not shared with third parties." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリ内で作成された日記や気分パターンなど、すべてのデータはお使いのデバイスにのみ保存されます。私たちはこのデータにアクセスせず、第三者と共有しません。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您在应用程序内创建的所有数据，包括日记和心情模式，都仅存储在您的设备上。我们无法访问此数据，也不会与第三方分享。"
+          }
+        }
+      }
+    },
+    "Amidst the challenges, remember that you possess the strength to shape your narrative and emerge from adversity with newfound wisdom." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "挑戦の中で、自分の運命を形作る力と、困難を乗り越えて賢くなる力を持っていることを忘れずに。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在挑战之中，别忘了你有能力塑造自己的命运，从困境中走出来，更具智慧。"
+          }
+        }
+      }
+    },
+    "Amidst the shades of gray, seek the nuances that add depth to your days, and let each hue contribute to the canvas of your story. Carry on with your emotional introspection!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暗い影の中で、日常に深みを加える微妙な違いを見つけ、各色調が人生のキャンバスに貢献するように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在灰暗的阴影中，寻找增加深度的细微差别，让每个色调都为你的故事画布作出贡献。"
+          }
+        }
+      }
+    },
+    "An app restart is required to update app language." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリの再起動が必要"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您需要重启应用程序以更新语言。"
+          }
+        }
+      }
+    },
+    "angry" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "怒り"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生气"
+          }
+        }
+      }
+    },
+    "Angry/Mad" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "怒り/狂った"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愤怒/生气"
+          }
+        }
+      }
+    },
+    "Anniversary" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記念日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "纪念日"
+          }
+        }
+      }
+    },
+    "As you journey through life, may you always find solace and elation in the embrace of the gentle moments that grace your path. Stay committed to introspecting on your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生の旅路で、道々に散りばめられた優しい瞬間で安らぎと喜びを見つけますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愿你永远在探索自我的道路上寻找慰藉和欢欣，这些道路上充满了微小宝藏的快乐。"
+          }
+        }
+      }
+    },
+    "Beige" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベージュ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "米色"
+          }
+        }
+      }
+    },
+    "By accessing or using the 'Journals' app, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the app." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'Journals'アプリへのアクセスまたは使用により、これらの利用規約に拘束されることに同意します。これらの規約に同意しない場合、アプリを使用しないでください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过访问或使用 'Journals' 应用程序，您同意受这些使用条款的约束。如果您不同意这些条款，请不要使用该应用。"
+          }
+        }
+      }
+    },
+    "calm" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "落ち着いた"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平静"
+          }
+        }
+      }
+    },
+    "Calm/Contemplative" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "落ち着いた/瞑想"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平静/沉思"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "celebratory" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大喜び"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢欣鼓舞"
+          }
+        }
+      }
+    },
+    "Celebratory" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大喜び"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢欣鼓舞"
+          }
+        }
+      }
+    },
+    "Cherish these fragments of bliss, and may your days be forever adorned with the jewels of life's modest treasures. Continue your journey of self-emotional exploration!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一瞬一瞬の幸せを掴み、その光が永遠にあなたの人生を明るくしてくれますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "珍惜这些幸福的碎片，愿你的日子永远被生活的简单珍宝装点得如此美丽。继续你对自我情感的探索之旅！"
+          }
+        }
+      }
+    },
+    "Choose Export Format" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エクスポート形式を選択"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择导出格式"
+          }
+        }
+      }
+    },
+    "Click the icon to save your event as a screenshot and share later." : {
+
+    },
+    "concerned" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やきもき"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "担忧"
+          }
+        }
+      }
+    },
+    "content" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "満足"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "满足"
+          }
+        }
+      }
+    },
+    "Content/Satisfied" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "満足"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "满足"
+          }
+        }
+      }
+    },
+    "CountDown" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カウントダウン"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "倒数"
+          }
+        }
+      }
+    },
+    "Date" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日付"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日期"
+          }
+        }
+      }
+    },
+    "Dawn Pink" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ドーンピンク"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黎明粉"
+          }
+        }
+      }
+    },
+    "Default notification at 21:00 local time." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デフォルトの通知は現地時間21:00です。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认通知时间为当地时间21:00"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "Deleting Entry" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作文を削除中"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在删除日志"
+          }
+        }
+      }
+    },
+    "Diary" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日記"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日记"
+          }
+        }
+      }
+    },
+    "Difficult moments are threads in the fabric of resilience; each challenge you face weaves a tapestry of strength that fortifies your spirit." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "困難な瞬間は精神力の一部であり、それぞれの挑戦は心を強くする壮大な絵を描いている。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "困难时刻是韧性的一部分；每次挑战都在织造一幅让你精神更坚定的壮观画卷。"
+          }
+        }
+      }
+    },
+    "elated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大喜び"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "昂扬"
+          }
+        }
+      }
+    },
+    "Elated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大喜び"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "昂扬"
+          }
+        }
+      }
+    },
+    "Embrace the ebb and flow of life's moments, for in the balance lies the tapestry that forms your unique journey. Sustain your efforts to delve into the depths of your feelings!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生の波に抱かれて、その均衡が独自の旅を作り出す。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拥抱生活时光的涨落，因为在平衡中构成了你独一无二的旅程。继续深入探索你的情感吧！"
+          }
+        }
+      }
+    },
+    "Embrace the happiness in these fleeting moments, and may your journey be forever illuminated by the radiance of life's simple pleasures. Carry on with your practice of thoughtful self-feeling examination!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この幸せな瞬間を大切にし、日常の単純な宝物であなたの日々が美しく飾られますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拥抱这些瞬息万变的幸福时刻，愿你的旅程永远被生活简单的乐趣之光照亮。"
+          }
+        }
+      }
+    },
+    "energetic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元気な"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活力四射"
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        }
+      }
+    },
+    "Error fetching weather.\nPlease check system permission." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天気情報の取得エラー。システム許可を確認してください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请求天气信息出错。请检查系统权限。"
+          }
+        }
+      }
+    },
+    "Event notification at 9:00 local time." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イベントの通知は現地時間9:00です。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "倒数日通知时间为当地时间9:00"
+          }
+        }
+      }
+    },
+    "Excited/Energetic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "興奮している/元気な"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兴奋/带劲"
+          }
+        }
+      }
+    },
+    "Export Data" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸出データ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出数据"
+          }
+        }
+      }
+    },
+    "Export failed. Please try again." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エクスポートに失敗しました"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出失败，请再试一次。"
+          }
+        }
+      }
+    },
+    "Export Status" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸出状況"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出状态"
+          }
+        }
+      }
+    },
+    "Export successful. File saved to system." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エクスポートが成功した。ファイルはシステムに保存されました。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出成功。文件已存入手机。"
+          }
+        }
+      }
+    },
+    "Face ID / Touch ID" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID / Touch ID"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面容 ID / 触控 ID"
+          }
+        }
+      }
+    },
+    "Fetching city name..." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "都市名の取得中..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在获取城市…"
+          }
+        }
+      }
+    },
+    "Filter your events by tag or pin status, or search for an event by title or tag." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグでイベントを絞り込むか、タイトルまたはタグでイベントを検索してください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按置顶状态或标签来过滤你的事件，也可以按标题或标签搜索事件。"
+          }
+        }
+      }
+    },
+    "Find comfort in the neutrality of this moment, for it's a canvas upon which you can paint the spectrum of emotions that color your life. Continue your journey of self-feeling exploration!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この瞬間の中立性で安堵を感じよう。それがあなたの人生を彩る感情スペクトルのキャンバスです。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在这一刻的宁静中稍加歇息，因为它是你可以绘制色彩你生活的情感光谱的画布。"
+          }
+        }
+      }
+    },
+    "Find your past journals here. For dates, simply enter the month/day number, or full date if needed." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここで過去のジャーナルを探してください。日付には、単に月/日の数字を入力してください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在这里找到以前的日记。输入数字亦可搜索日期。"
+          }
+        }
+      }
+    },
+    "frustrated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イライラした"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沮丧"
+          }
+        }
+      }
+    },
+    "Frustrated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イライラした"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沮丧"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
+        }
+      }
+    },
+    "Good Afternoon." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good Afternoon"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんにちは"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下午好"
+          }
+        }
+      }
+    },
+    "Good Evening." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good Evening"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんばんは"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "晚上好"
+          }
+        }
+      }
+    },
+    "Good Morning." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good Morning"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おはよう"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早上好"
+          }
+        }
+      }
+    },
+    "happy" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嬉しい"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愉悦"
+          }
+        }
+      }
+    },
+    "Happy" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嬉しい"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愉悦"
+          }
+        }
+      }
+    },
+    "has been" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "から"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已经"
+          }
+        }
+      }
+    },
+    "has been %@ day(s)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "から%@日が経った"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已经%@天"
+          }
+        }
+      }
+    },
+    "Holiday" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "节假日"
+          }
+        }
+      }
+    },
+    "How was your day?" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日はどうでしたか？"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天过得怎么样？"
+          }
+        }
+      }
+    },
+    "in" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "は"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还有"
+          }
+        }
+      }
+    },
+    "in %@ day(s)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "は%@日後"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还有%@天"
+          }
+        }
+      }
+    },
+    "In the shadows, you find the contrast that makes the light shine even brighter. Your journey is composed of both, each enhancing the other." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "影の中で、明るい光の対比を見つける。この二つが相互に補完しながら、あなたの旅を形作っています。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在阴影中，你会找到让光更明亮的对比。你的旅程由这两者组成，彼此相辅相成。"
+          }
+        }
+      }
+    },
+    "In this moment of neutrality, take a breath and appreciate the mosaic of emotions that combine to create the masterpiece of your existence. Stay on the path of self-discovery through feeling contemplation!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この瞬間の平穏で深呼吸をし、あなたを構成する感情のモザイクを楽しもう。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在这一刻的宁静中深呼吸，欣赏组合成你复杂内心的情感马赛克。"
+          }
+        }
+      }
+    },
+    "Invalid mood score for this day." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その日のスコアは無効。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日无心情指数。"
+          }
+        }
+      }
+    },
+    "is Today" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "は今日です"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就是今天"
+          }
+        }
+      }
+    },
+    "Journals" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journals"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journals"
+          }
+        }
+      }
+    },
+    "joyful" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "喜び"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愉悦"
+          }
+        }
+      }
+    },
+    "Joyful/Hopeful" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "喜び/頼もしい"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢乐/欢欣鼓舞"
+          }
+        }
+      }
+    },
+    "Jump to Today" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日に移動"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳转到今日"
+          }
+        }
+      }
+    },
+    "Just as a compass points to true north, your emotional equilibrium guides you through the ever-changing landscapes of your journey. Keep on examining and contemplating your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指針が真の北へと人々を導くように、あなたの感情のバランスも変わりゆく人生の旅路を導く。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正如指南针引导人们去向真正的北方，你的情感平衡引导你穿越不断变化的生活旅程。"
+          }
+        }
+      }
+    },
+    "Just as a phoenix rises from its ashes, your spirit too can soar above difficulties, fueled by the energy of transformation." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不死鳥が灰から生まれ変わるように、困難を乗り越えて精神が高まり、変革の力で動かされる。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就像凤凰可以从灰烬中重生，你的精神也能在困境中腾飞，由转变的力量所驱动。"
+          }
+        }
+      }
+    },
+    "Just as a scale requires both sides for balance, your journey encompasses a range of emotions that shape the person you're becoming. Keep up the habit of pondering your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天秤が均衡するためには両側が必要と同じく、感情の多様性があなたを形作る旅にも必要だ。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正如天平需要两边来平衡，你的自我探索的旅程也包括通过感受情感来找到内心的平衡。"
+          }
+        }
+      }
+    },
+    "Keep nurturing those moments of joy, and let the beauty of life's small wonders always brighten your path. Keep up the good work of introspecting your emotional experiences!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活の小さな喜びを探し続け、その美しさが常にあなたの道を照らしてくれますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不断发现快乐时刻，让生活中的小美好永远照亮你的道路。"
+          }
+        }
+      }
+    },
+    "Keywords of the Day: \n%@. \n\n%@\n\n%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keywords of the Day: \n%1$@. \n\n%2$@\n\n%3$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のキーワード:\n%1$@。\n\n%2$@\n\n%3$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日关键词：\n%1$@。\n\n%2$@\n\n%3$@"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリ言語"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语言"
+          }
+        }
+      }
+    },
+    "Lavender" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ラベンダー"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "薰衣草"
+          }
+        }
+      }
+    },
+    "Let the kaleidoscope of happiness formed by life's petite treasures continue to infuse your days with vibrant colors and radiant smiles. Continue contemplating your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活の小さな美点で作られた「幸せの万華鏡」が、あなたの日々に明るい色と笑顔をもたらし続けますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "让生活中小小宝藏形成的幸福万花筒继续为你的日子注入绚丽的色彩和灿烂的微笑。"
+          }
+        }
+      }
+    },
+    "Let's make the most of today." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日一日を大切に。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日尽矣，明朝自来。"
+          }
+        }
+      }
+    },
+    "Life" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活"
+          }
+        }
+      }
+    },
+    "Life's path is a blend of diverse experiences; let the neutrality of this moment guide you through the intricate weave of emotions. Continue the process of self-discovery through emotional reflection!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多様性が生活を形成する。今この瞬間の中立性が、複雑な感情の網を通して導く。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活之路是由多样性组成的；让这一刻的沉静引导你穿越复杂的情感网。"
+          }
+        }
+      }
+    },
+    "Life's pendulum swings between various feelings; use the equilibrium as an opportunity to reflect on the richness of your experiences. Persist in your practice of self-emotional exploration!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生の振り子は感情間で常に揺れ動く。この静けさを用いて、豊かな経験について考察する機会としよう。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活的摆锤总在各种感觉之间摇摆；用此刻内心的平衡作为反思生活的契机。"
+          }
+        }
+      }
+    },
+    "Light mode themes. An app restart is required to see the changes." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライトモードのテーマ。変更を表示するにはアプリの再起動が必要です。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浅色主题模式。需要重新启动应用以查看更改。"
+          }
+        }
+      }
+    },
+    "livid" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激怒している"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暴怒"
+          }
+        }
+      }
+    },
+    "Livid" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激怒している"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暴怒"
+          }
+        }
+      }
+    },
+    "Loading weather..." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天気情報を読み込み中..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在加载天气…"
+          }
+        }
+      }
+    },
+    "May the tapestry of your days be woven with the threads of happiness found in the intricacies of life's miniature wonders. Persist in your endeavor to reflect on your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの日々が幸せな糸で織りなすタペストリーのように美しいものとなりますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "愿你始终在生活的道路上、充满幸福的瞬间中找到慰藉和喜悦。"
+          }
+        }
+      }
+    },
+    "melancholic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メランコリック"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "郁闷"
+          }
+        }
+      }
+    },
+    "Melancholic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メランコリック"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "郁闷"
+          }
+        }
+      }
+    },
+    "motivated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やる気"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "坚定/积极"
+          }
+        }
+      }
+    },
+    "Motivated" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やる気"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "坚定/积极"
+          }
+        }
+      }
+    },
+    "Navigate Event List with Buttons" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボタンでイベント閲覧"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轻点按钮以操作事件列表"
+          }
+        }
+      }
+    },
+    "No entries to export." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日記は見つかりませんでした。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有日记导出。"
+          }
+        }
+      }
+    },
+    "No entry for this day." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この日の作文はありません。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日无日记。"
+          }
+        }
+      }
+    },
+    "No mood selected for this day." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この日は選択なし。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日无已选择的心情。"
+          }
+        }
+      }
+    },
+    "No mood selected for yesterday." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "昨日の気分は選択されていません。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "昨天没有记录心情。"
+          }
+        }
+      }
+    },
+    "No Reminder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知なし"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无提醒"
+          }
+        }
+      }
+    },
+    "nostalgic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ノスタルジック"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "怀旧"
+          }
+        }
+      }
+    },
+    "Nostalgic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ノスタルジック"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "怀旧"
+          }
+        }
+      }
+    },
+    "Notification" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        }
+      }
+    },
+    "On the Day" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当日"
+          }
+        }
+      }
+    },
+    "optimistic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "楽観的"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乐观/积极"
+          }
+        }
+      }
+    },
+    "Optimistic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "楽観的"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乐观/积极"
+          }
+        }
+      }
+    },
+    "Pin Event" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "イベントをピン留め"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置顶事件"
+          }
+        }
+      }
+    },
+    "Pinned" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピン留め"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置顶"
+          }
+        }
+      }
+    },
+    "Plain Text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレーンテキスト"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "纯文本"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシーポリシー"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐私条款"
+          }
+        }
+      }
+    },
+    "Quickly Navigate Through Dates" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "矢印で日付移動"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轻点按钮以浏览日期"
+          }
+        }
+      }
+    },
+    "relieved" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホッとした"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放松"
+          }
+        }
+      }
+    },
+    "Relieved" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホッとした"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放松"
+          }
+        }
+      }
+    },
+    "Remember that life is a tapestry of various emotions, and finding equilibrium amidst the ups and downs is a commendable endeavor. Stay the course in your endeavor to understand your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感情の山谷を越えながら、人生は美しい絵画となる。そのバランスを見つけることが称賛に値する。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "记住，人生就是一幅由各种情感组成的画卷，寻找起伏之间的平衡是值得赞赏的。"
+          }
+        }
+      }
+    },
+    "sad" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "悲しい"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "伤心"
+          }
+        }
+      }
+    },
+    "Sad/Awful" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "悲しい/ひどい"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "伤心/糟糕"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "Save as Picture" : {
+
+    },
+    "Sea Mist" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "海霧"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "海雾"
+          }
+        }
+      }
+    },
+    "Search" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索"
+          }
+        }
+      }
+    },
+    "Search by Dates or Content" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日付または内容で検索"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按内容或日期搜索"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
+        }
+      }
+    },
+    "Start tracking your mood today!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日から気分を記録しよう！"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从今天开始记录你的心情！"
+          }
+        }
+      }
+    },
+    "Stay attuned to the enchanting symphony of life's small delights, and let the melody of happiness accompany you each step of the way. Persist in your pursuit of understanding your feelings!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日々の小さな幸せに目を向け、その魅力的なメロディーが各ステップであなたを支えますように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时刻关注生活小确幸的迷人乐章，让幸福的旋律陪伴你走过每一步。"
+          }
+        }
+      }
+    },
+    "Stay on this beautiful path of cherishing life's simplicity, and may the wellspring of joy within you never run dry. Keep reflecting your feelings!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この美しい道、即ち生活の単純な美を大切にする道を歩み続け、心の中の喜びが永遠に枯れることがありませんように。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "继续走在珍惜生活简单之美的美丽道路上，愿你内心的喜悦之泉永不枯竭。"
+          }
+        }
+      }
+    },
+    "Storms may obscure the horizon, but beneath the clouds lies a landscape of opportunities waiting for your discovery." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嵐が地平線を覆うかもしれないが、その下には新たな可能性が広がっている。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暴风雨可能会遮住地平线，但在云层下是一片等待你去发现的机会之地。"
+          }
+        }
+      }
+    },
+    "Summary" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まとめ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总结"
+          }
+        }
+      }
+    },
+    "Tag" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ラベル"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标签"
+          }
+        }
+      }
+    },
+    "Take a moment to breathe." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一息つき、心鎮まる。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "留一息，绽放自我。"
+          }
+        }
+      }
+    },
+    "Tap the arrows to jump 3 days backward or forward for quick navigation." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "矢印をタップして、3日前または3日後に素早く移動してください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击以快速前进或后退3天。"
+          }
+        }
+      }
+    },
+    "Tap to add an event." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タップしてイベントを追加する"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击以添加事件。"
+          }
+        }
+      }
+    },
+    "Tap to authenticate Face ID/Touch ID." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face ID/Touch IDを認証してください"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击以授权面容 ID / 触控 ID"
+          }
+        }
+      }
+    },
+    "Terms of Use" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用規約"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用条款"
+          }
+        }
+      }
+    },
+    "Terms of Use & Privacy Policy" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用規約とプライバシーポリシー"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用条款和隐私政策"
+          }
+        }
+      }
+    },
+    "The app may request permissions to access certain features on your device, such as notifications, Face ID / Touch ID, and photo album. You have the right to accept or deny these permissions." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリはお使いのデバイスの特定の機能へのアクセス権をリクエストする場合があります。通知、Face ID / Touch ID、および写真アルバムなどが含まれます。これらの権限を受け入れるか拒否する権利があります。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该应用可能会请求访问您设备上的某些功能，如通知、 面容 ID / 触控 ID 以及相册。您有权利接受或拒绝这些权限。"
+          }
+        }
+      }
+    },
+    "The beauty of life's mosaic is its diversity of emotions. Even in tough times, your canvas is being painted with hues of growth and resilience." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生の美は感情の多様性にある。困難な瞬間でさえ、成長と精神性で画布を彩っている。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生马赛克的美丽在于情感的多样性。即使在艰难时刻，你的画布也正在用成长和韧性的色彩进行绘制。"
+          }
+        }
+      }
+    },
+    "The middle ground between highs and lows is where you discover the stability that can support you as you navigate life's twists and turns. Stay dedicated to understanding your emotional landscape!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高みと低みの間にある安定点が、人生の曲折に対処する際の支えとなる。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高潮与低谷之间的中间地带是你在应对生活曲折时可以找到支持的稳定点。"
+          }
+        }
+      }
+    },
+    "The night is quite: Jot down today's inner words in your diary." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜が深まり、心のささやきに耳を傾け、今日の感じを静かに記録しよう。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜幕低垂，静听心灵的低语，将今日之感悠然记下。"
+          }
+        }
+      }
+    },
+    "The road may be tough at times, but your resilience is an unwavering guide that leads you through the darkest of moments." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "道は時に厳しいが、その堅忍な精神が常に指針となり、最も暗い時も乗り越えさせてくれる。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路可能会时而艰难，但你的韧性是一个始终不渝的指引，引导你穿越最黑暗的时刻。"
+          }
+        }
+      }
+    },
+    "Themes" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テーマ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主题"
+          }
+        }
+      }
+    },
+    "This action is not reversible." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この措置は取り消せない。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此操作不可逆。"
+          }
+        }
+      }
+    },
+    "Tiffany Blue" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ティファニーブルー"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蒂芙尼蓝"
+          }
+        }
+      }
+    },
+    "Time to reflect in the moment of ease." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "静寂と自己省察の時。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心静自然净，时光待反思。"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标题"
+          }
+        }
+      }
+    },
+    "Today's a bit tougher than yesterday, but that's okay." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日は昨日より少し厳しいですが、それは大丈夫です。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天的心情比昨天稍微糟糕一些，但没关系。"
+          }
+        }
+      }
+    },
+    "We may update this privacy policy from time to time. We encourage you to review this policy regularly to stay informed about our privacy practices." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このプライバシーポリシーは定期的に更新することがあります。プライバシーに関する私たちの実践について最新情報を確認するために、このポリシーを定期的に確認することをお勧めします。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们可能会不时更新此隐私政策。我们鼓励您定期查阅此政策，以便了解我们的隐私惯例"
+          }
+        }
+      }
+    },
+    "We reserve the right to modify these terms at any time. Continued use of the app constitutes acceptance of any changes." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私たちはいつでもこれらの利用規約を変更する権利を留保します。アプリの継続的な使用は変更の承認とみなされます。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我们保留随时修改这些条款的权利。继续使用该应用即表示接受任何更改。\""
+          }
+        }
+      }
+    },
+    "When life's rhythm falters, embrace the dissonance, for it's through these moments that the symphony of your life gains depth and beauty." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生のリズムが乱れたとき、その不協和音を受け入れよ。それによって、あなたの人生の交響曲がより深く、美しくなる。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当生活的节奏出现失调时，拥抱这种不和谐，因为正是通过这些时刻，你生命的交响乐才能增加深度和美感。"
+          }
+        }
+      }
+    },
+    "While the clouds may momentarily dim the sky, remember that the sun's brilliance will break through once again, lighting your path." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲が一時的に空を覆っても、太陽の輝きが再び雲を突破し、道を照らすことを忘れないで。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "云层可能暂时遮住天空，但记住太阳的辉煌终将再次穿透云层，照亮你的道路。"
+          }
+        }
+      }
+    },
+    "Work" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仕事"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工作"
+          }
+        }
+      }
+    },
+    "Worried/Anxious" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心もとない"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "担忧/焦虑"
+          }
+        }
+      }
+    },
+    "You felt %@ on this day. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You felt %1$@ on this day. %2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この日、あなたは%1$@。 %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您在这天感到%1$@。%2$@"
+          }
+        }
+      }
+    },
+    "You retain ownership of all content you create within the app. You are solely responsible for the content you create and its legality." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリ内で作成したすべてのコンテンツの所有権はあなたにあります。作成したコンテンツとその合法性については、あなた自身が責任を負います。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您保留在应用程序内创建的所有内容的所有权。您对所创建的内容及其合法性负有唯一责任。"
+          }
+        }
+      }
+    },
+    "You're feeling more upbeat today!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日は気分がいいね！"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天您的心情更好了！"
+          }
+        }
+      }
+    },
+    "Your ability to find joy in life's little marvels is a gift; keep unwrapping it and delighting in the magic that surrounds you. Stay dedicated to reflecting your emotions!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活の小さな奇跡で喜びを見つける能力は贈り物です；その力で生活の魔法を感じ続けてください。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你在生活的小奇迹中找到快乐的能力是一份礼物；继续用它享受周围的魔力。"
+          }
+        }
+      }
+    },
+    "Your heart's receptivity to life's small joys is truly remarkable; keep your spirit open to the abundance of happiness that exists all around you. Sustain your habit of introspective thinking about your feelings!" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活の小さな喜びを素晴らしい形で受け入れるあなたは本当に素晴らしい。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的心灵对生活中小小的快乐的接纳是真正令人赞叹的；保持你开阔的眼界，以欣赏你周围的丰富多彩。"
+          }
+        }
+      }
+    },
+    "Your mood is consistent with yesterday." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日の気分は昨日と変わらないよ。"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您今天的心情与昨天保持一致。"
+          }
+        }
+      }
+    },
+    "Your Mood Pattern" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気分パターン"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的心情变更"
+          }
+        }
+      }
+    },
+    "Your Summary for %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@のまとめ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您%@的当日总结"
+          }
+        }
+      }
+    },
+    "日本語" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日本語"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日本語"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日本語"
+          }
+        }
+      }
+    },
+    "简体中文" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
