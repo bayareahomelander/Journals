@@ -8,7 +8,7 @@
 		<string>zh_CN</string>
 	</array>
 	<key>GoogleKey</key>
-	<string></string>
+	<string>Removed</string>
 	<key>NSUserNotificationsUsageDescription</key>
 	<string>Receive daily journal entry reminders and event countdown alerts.</string>
 </dict>
