@@ -15,6 +15,7 @@ Journals is an iOS application designed to provide a personal journaling experie
 
 ### Privacy and Security ###
 - **Biometric Authentication**: The app supports Face ID/Touch ID, allowing users to secure their journal entries with biometric authentication.
+- **Local Data Storage**: By utilizing SQLite3 for data persistence, the app ensures all data is stored locally, enhancing control over privacy.
 
 ### Customization ##
 - **Reminders**: Users can enable daily reminders to write in their journal. In addition, users can choose to be notified of an event, either on the day, 1 day, 2 days or 10 days in prior.
